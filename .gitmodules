@@ -1,3 +1,4 @@
 [submodule "DTU02139/Lab/chisel-lab-DTY02139"]
 	path = DTU02139/Lab/chisel-lab-DTY02139
 	url = git@github.com:Henoru/chisel-lab-DTY02139.git
+	branch = heno-dev

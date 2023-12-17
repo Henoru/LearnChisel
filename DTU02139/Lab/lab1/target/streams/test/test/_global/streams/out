@@ -1,0 +1,11 @@
+[debug] Running TaskDef(HelloSpec, org.scalatest.tools.Framework$$anon$1@1756a60a, false, [SuiteSelector])
+[info] HelloSpec:
+[info] Hello
+[info] - should pass
+[info] Run completed in 36 seconds, 111 milliseconds.
+[info] Total number of tests run: 1
+[info] Suites: completed 1, aborted 0
+[info] Tests: succeeded 1, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[debug] Passed tests:
+[debug] 	HelloSpec

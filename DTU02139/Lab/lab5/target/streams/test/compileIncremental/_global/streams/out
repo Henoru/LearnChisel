@@ -1,0 +1,14 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 2 products, 2 sources, 6 libraries
+[debug] current source = Set(${BASE}/src/test/scala/SevenSegCountSpec.scala, ${BASE}/src/test/scala/SevenSegDecoderSpec.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set(NamesChange(CountSevenSeg,ModifiedNames(changes = UsedName(tick,[Default]), UsedName(clk,[Default]), UsedName(decoder,[Default]), UsedName(cnt,[Default])))))
+[debug] The CountSevenSeg has the following regular definitions changed:
+[debug] 	UsedName(tick,[Default]), UsedName(clk,[Default]), UsedName(decoder,[Default]), UsedName(cnt,[Default]).
+[debug] All member reference dependencies will be considered within this context.
+[debug] Files invalidated by inheriting from (external) CountSevenSeg: Set()
+[debug] Now invalidating by inheritance (internally).
+[debug] Getting direct dependencies of all classes transitively invalidated by inheritance.
+[debug] Getting classes that directly depend on (external) CountSevenSeg.
+[debug] None of the modified names appears in source file of SevenSegCountSpec. This dependency is not being considered for invalidation.
+[debug] No changes

@@ -1,0 +1,11 @@
+[debug] Running TaskDef(AccuSpec, org.scalatest.tools.Framework$$anon$1@1e8c95c7, false, [SuiteSelector])
+[info] AccuSpec:
+[info] Accu
+[info] - should pass
+[info] Run completed in 885 milliseconds.
+[info] Total number of tests run: 1
+[info] Suites: completed 1, aborted 0
+[info] Tests: succeeded 1, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[debug] Passed tests:
+[debug] 	AccuSpec

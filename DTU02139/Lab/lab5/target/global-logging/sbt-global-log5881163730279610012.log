@@ -1,0 +1,14 @@
+[debug] > Exec(all {file:/D:/NJU/Chisel/DTU02139/Lab/chisel-lab-DTY02139/lab5/}lab5/products {file:/D:/NJU/Chisel/DTU02139/Lab/chisel-lab-DTY02139/lab5/}lab5/test:products, None, None)
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to D:\NJU\Chisel\DTU02139\Lab\chisel-lab-DTY02139\lab5\target\scala-2.13\classes ...
+[error] D:\NJU\Chisel\DTU02139\Lab\chisel-lab-DTY02139\lab5\src\main\scala\SevenSegDecoder.scala:18:3: Unmatched closing brace '}' ignored here
+[error]   }
+[error]   ^
+[error] one error found
+[debug] Forcing garbage collection...
+[error] (Compile / compileIncremental) Compilation failed
+[error] Total time: 2 s, completed 2023-12-16 22:57:23
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

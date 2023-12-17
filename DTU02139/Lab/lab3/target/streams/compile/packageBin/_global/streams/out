@@ -1,0 +1,31 @@
+[debug] Packaging D:\NJU\Chisel\DTU02139\Lab\chisel-lab-DTY02139\lab3\target\scala-2.13\lab3_2.13-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	Accu$$anon$1.class
+[debug] 	  D:\NJU\Chisel\DTU02139\Lab\chisel-lab-DTY02139\lab3\target\scala-2.13\classes\Accu$$anon$1.class
+[debug] 	Accu.class
+[debug] 	  D:\NJU\Chisel\DTU02139\Lab\chisel-lab-DTY02139\lab3\target\scala-2.13\classes\Accu.class
+[debug] 	Count15$$anon$1.class
+[debug] 	  D:\NJU\Chisel\DTU02139\Lab\chisel-lab-DTY02139\lab3\target\scala-2.13\classes\Count15$$anon$1.class
+[debug] 	Count15.class
+[debug] 	  D:\NJU\Chisel\DTU02139\Lab\chisel-lab-DTY02139\lab3\target\scala-2.13\classes\Count15.class
+[debug] 	Count6$$anon$1.class
+[debug] 	  D:\NJU\Chisel\DTU02139\Lab\chisel-lab-DTY02139\lab3\target\scala-2.13\classes\Count6$$anon$1.class
+[debug] 	Count6.class
+[debug] 	  D:\NJU\Chisel\DTU02139\Lab\chisel-lab-DTY02139\lab3\target\scala-2.13\classes\Count6.class
+[debug] 	Delay$$anon$1.class
+[debug] 	  D:\NJU\Chisel\DTU02139\Lab\chisel-lab-DTY02139\lab3\target\scala-2.13\classes\Delay$$anon$1.class
+[debug] 	Delay.class
+[debug] 	  D:\NJU\Chisel\DTU02139\Lab\chisel-lab-DTY02139\lab3\target\scala-2.13\classes\Delay.class
+[debug] 	Mux2$$anon$1.class
+[debug] 	  D:\NJU\Chisel\DTU02139\Lab\chisel-lab-DTY02139\lab3\target\scala-2.13\classes\Mux2$$anon$1.class
+[debug] 	Mux2.class
+[debug] 	  D:\NJU\Chisel\DTU02139\Lab\chisel-lab-DTY02139\lab3\target\scala-2.13\classes\Mux2.class
+[debug] 	Mux4$$anon$1.class
+[debug] 	  D:\NJU\Chisel\DTU02139\Lab\chisel-lab-DTY02139\lab3\target\scala-2.13\classes\Mux4$$anon$1.class
+[debug] 	Mux4.class
+[debug] 	  D:\NJU\Chisel\DTU02139\Lab\chisel-lab-DTY02139\lab3\target\scala-2.13\classes\Mux4.class
+[debug] 	UseMux2$$anon$1.class
+[debug] 	  D:\NJU\Chisel\DTU02139\Lab\chisel-lab-DTY02139\lab3\target\scala-2.13\classes\UseMux2$$anon$1.class
+[debug] 	UseMux2.class
+[debug] 	  D:\NJU\Chisel\DTU02139\Lab\chisel-lab-DTY02139\lab3\target\scala-2.13\classes\UseMux2.class
+[debug] Done packaging.

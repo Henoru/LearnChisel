@@ -1,0 +1,13 @@
+[debug] Running TaskDef(Mux5Test, org.scalatest.tools.Framework$$anon$1@67408815, false, [SuiteSelector])
+[info] Mux5Test:
+[info] Mux5
+[info] - should pass *** FAILED ***
+[info]   io_y=1 (0x1) did not equal expected=144 (0x90) (lines in Mux5Test.scala: 20, 18, 11, 7) (Mux5Test.scala:20)
+[info] Run completed in 2 seconds, 17 milliseconds.
+[info] Total number of tests run: 1
+[info] Suites: completed 1, aborted 0
+[info] Tests: succeeded 0, failed 1, canceled 0, ignored 0, pending 0
+[info] *** 1 TEST FAILED ***
+[error] Failed tests:
+[error] 	Mux5Test
+[error] (Test / testOnly) sbt.TestsFailedException: Tests unsuccessful

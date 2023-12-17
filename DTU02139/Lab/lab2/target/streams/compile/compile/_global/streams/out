@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0mD:\NJU\Chisel\DTU02139\Lab\chisel-lab-DTY02139\lab2\src\main\scala\Decoder.scala:15:19: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m    is (00.U) {dec=0001.U}[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\NJU\Chisel\DTU02139\Lab\chisel-lab-DTY02139\lab2\src\main\scala\Decoder.scala:16:19: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m    is (01.U) {dec=0010.U}[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\NJU\Chisel\DTU02139\Lab\chisel-lab-DTY02139\lab2\src\main\scala\Decoder.scala:17:19: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m    is (10.U) {dec=0100.U}[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\NJU\Chisel\DTU02139\Lab\chisel-lab-DTY02139\lab2\src\main\scala\Decoder.scala:18:19: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m    is (11.U) {dec=1000.U}[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m

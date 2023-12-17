@@ -1,0 +1,9 @@
+[debug] > Exec(all {file:/D:/NJU/Chisel/DTU02139/Lab/chisel-lab-DTY02139/lab4/}lab4/products {file:/D:/NJU/Chisel/DTU02139/Lab/chisel-lab-DTY02139/lab4/}lab4/test:products, None, None)
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to D:\NJU\Chisel\DTU02139\Lab\chisel-lab-DTY02139\lab4\target\scala-2.13\test-classes ...
+[info] done compiling
+[success] Total time: 0 s, completed 2023年12月16日 21:44:06
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
